@@ -1,6 +1,6 @@
 # 👽 Olá! Bem vindo ao meu perfil!
 <br><br>Sobre mim:<br>💻 Atualmente estudando C#, SQL Server e MongoDB e desenvolvimento de API's;<br>📚 Cursando Análise e Desenvolvimento de Sistemas pelo SENAC;<br>🏢 Morando em São Paulo - SP<br>
-🤖 Interessado em back-end, segurança digital, código performático e limpo<br><br>-- <br> 👽 About me:<br>💻 Currently studying C#, SQL Server, MongoDB and API development<br>📚 Gratuading in Systems Analysis<br>🏢 Living in São Paulo - SP - Brazil<br>🤖 Interested in back-end, cyber security, quality and smooth code. 
+🤖 Interessado em back-end, segurança digital, código performático e limpo<br><br>-- <br> 👽 About me:<br>💻 Currently studying C#, SQL Server, MongoDB and API development<br>📚 Graduating in Systems Analysis<br>🏢 Living in São Paulo - SP - Brazil<br>🤖 Interested in back-end, cyber security, quality and smooth code. 
 
 
 ## 🌐 Socials:
